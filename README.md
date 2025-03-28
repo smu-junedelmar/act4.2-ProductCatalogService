@@ -49,7 +49,7 @@ Each **product** will have the following properties:
 ---
 
 ## 🎨 UI Development Instructions
-Students need to create a **frontend application** using any framework of their choice (**React, Angular, Vue, or Next.js**). The UI should:
+Create a **frontend application** using any framework of your choice (**React, Angular, Vue, or Next.js**). The UI should:
 - Consume the **ProductCatalog Service** endpoints.
 - Display the list of products with their **image, name, description, price, and stock**.
 - Provide a form to **add, update, and delete** products.
